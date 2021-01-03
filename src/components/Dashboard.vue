@@ -311,7 +311,7 @@
                   <span class="icon-check2"></span>
                 </div>
                 <div class="text">
-                  <h3>CHƯƠNG TRÌNH HỌC ĐÃ THAM GIA</h3>
+                  <h3>Chương trình học đã tham gia</h3>
                   <p>
                     <b>2013:</b> Khoá nội soi khớp AAOS – VOA ( cùng giáo sư  AAOS - Pietro Tonino ) tại bệnh viện Chấn thương Chỉnh hình TP. HCM.
                     <br/>
@@ -503,7 +503,7 @@
       </div> -->
     </section>
 
-    <section
+    <!-- <section
       class="ftco-section ftco-counter img"
       id="section-counter"
       style="background-image: url(./assets/images/bg_1.jpg)"
@@ -567,8 +567,8 @@
           </div>
         </div>
       </div>
-    </section>
-
+    </section> -->
+    <Achivement />
     <section class="ftco-section">
       <!-- <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
@@ -1134,11 +1134,13 @@
 <script>
 import Loader from "@/components/Loader.vue";
 import Modal from "@/components/Modal.vue";
+import Achivement from "@/components/Achivement.vue";
 export default {
   name: "Dashboard",
   components: {
     Loader,
-    Modal
+    Modal,
+    Achivement
   }
 };
 </script>

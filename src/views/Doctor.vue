@@ -33,16 +33,14 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <h2 class="mb-3">Meet Our Experience Dentist</h2>
+            <h2 class="mb-3">Gặp gỡ bác sĩ nhiều năm kinh nghiệm</h2>
             <p>
-              A small river named Duden flows by their place and supplies it
-              with the necessary regelialia. It is a paradisematic country, in
-              which roasted parts of sentences
+              Nhóm bác sĩ - phẫu thuật viên chúng tôi hiện tại đã và đang công tác nhiều năm tại bệnh viện Chấn thương Chỉnh hình TP. HCM, điều trị các bệnh lý Cơ Xương Khớp và các chấn thương thể thao. Do các bệnh lý cơ xương khớp và các chấn thương thể thao ngày càng phổ biến, do đó nhóm bác sĩ phẫu thuật viên quyết định thành lập nhóm Bác sĩ Chỉnh hình với mục đích đem lại dịch vụ khám và điều trị chăm sóc chuyên nghiệp tốt nhất nhằm giúp cho các bệnh nhân cũng như các vận động viên thể thao trở về sinh hoạt hay các hoạt động thể thao hằng ngày.
             </p>
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-3 col-md-6 d-flex mb-sm-4 ftco-animate">
+          <div class="col-lg-12 col-md-12 d-flex mb-sm-12 ftco-animate">
             <div class="staff">
               <!-- <div class="img mb-4" style="background-image: url(../assets/images/person_5.jpg);"></div> -->
               <div
@@ -56,6 +54,7 @@
                 <span class="position">Bác sĩ</span>
                 <div class="text">
                   <p>Đã tu nghiệp tại Úc và Mỹ</p>
+                  <p>Hiện là bác sĩ chuyên khoa Chấn Thương Chỉnh Hình thành phố Hồ Chí Minh</p>
                   Số điện thoại:<br />
                   +84 98 773 68 53 <br />
                   Email: dr.tan220988@gmail.com
@@ -77,7 +76,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 d-flex mb-sm-4 ftco-animate">
+          <!-- <div class="col-lg-3 col-md-6 d-flex mb-sm-4 ftco-animate">
             <div class="staff">
               <div
                 class="img mb-4"
@@ -300,12 +299,12 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
 
-    <section
+    <!-- <section
       class="ftco-section ftco-counter img"
       id="section-counter"
       style="background-image: url(../assets/images/bg_1.jpg)"
@@ -370,127 +369,14 @@
           </div>
         </div>
       </div>
-    </section>
-
-    <section class="ftco-section">
-      <div class="container">
-        <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-            <h2 class="mb-3">Our Best Pricing</h2>
-            <p>
-              A small river named Duden flows by their place and supplies it
-              with the necessary regelialia.
-            </p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-3 ftco-animate">
-            <div class="pricing-entry pb-5 text-center">
-              <div>
-                <h3 class="mb-4">Basic</h3>
-                <p>
-                  <span class="price">$24.50</span>
-                  <span class="per">/ session</span>
-                </p>
-              </div>
-              <ul>
-                <li>Diagnostic Services</li>
-                <li>Professional Consultation</li>
-                <li>Tooth Implants</li>
-                <li>Surgical Extractions</li>
-                <li>Teeth Whitening</li>
-              </ul>
-              <p class="button text-center">
-                <a
-                  href="#"
-                  class="btn btn-primary btn-outline-primary px-4 py-3"
-                  >Order now</a
-                >
-              </p>
-            </div>
-          </div>
-          <div class="col-md-3 ftco-animate">
-            <div class="pricing-entry pb-5 text-center">
-              <div>
-                <h3 class="mb-4">Standard</h3>
-                <p>
-                  <span class="price">$34.50</span>
-                  <span class="per">/ session</span>
-                </p>
-              </div>
-              <ul>
-                <li>Diagnostic Services</li>
-                <li>Professional Consultation</li>
-                <li>Tooth Implants</li>
-                <li>Surgical Extractions</li>
-                <li>Teeth Whitening</li>
-              </ul>
-              <p class="button text-center">
-                <a
-                  href="#"
-                  class="btn btn-primary btn-outline-primary px-4 py-3"
-                  >Order now</a
-                >
-              </p>
-            </div>
-          </div>
-          <div class="col-md-3 ftco-animate">
-            <div class="pricing-entry active pb-5 text-center">
-              <div>
-                <h3 class="mb-4">Premium</h3>
-                <p>
-                  <span class="price">$54.50</span>
-                  <span class="per">/ session</span>
-                </p>
-              </div>
-              <ul>
-                <li>Diagnostic Services</li>
-                <li>Professional Consultation</li>
-                <li>Tooth Implants</li>
-                <li>Surgical Extractions</li>
-                <li>Teeth Whitening</li>
-              </ul>
-              <p class="button text-center">
-                <a
-                  href="#"
-                  class="btn btn-primary btn-outline-primary px-4 py-3"
-                  >Order now</a
-                >
-              </p>
-            </div>
-          </div>
-          <div class="col-md-3 ftco-animate">
-            <div class="pricing-entry pb-5 text-center">
-              <div>
-                <h3 class="mb-4">Platinum</h3>
-                <p>
-                  <span class="price">$89.50</span>
-                  <span class="per">/ session</span>
-                </p>
-              </div>
-              <ul>
-                <li>Diagnostic Services</li>
-                <li>Professional Consultation</li>
-                <li>Tooth Implants</li>
-                <li>Surgical Extractions</li>
-                <li>Teeth Whitening</li>
-              </ul>
-              <p class="button text-center">
-                <a
-                  href="#"
-                  class="btn btn-primary btn-outline-primary px-4 py-3"
-                  >Order now</a
-                >
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    </section> -->
+    <Achivement />
   </div>
 </template>
 <script>
+import Achivement from "@/components/Achivement.vue";
 export default {
   name: "Doctor",
+  components: { Achivement }
 };
 </script>
